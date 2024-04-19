@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Valid Parentheses - SkillSync</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="allproblems.css">
+</head>
+
+<body>
+    <div id="problem-container">
+        <h1>Valid Parentheses</h1>
+        <div id="problem-description">
+            <p>Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input
+                string is valid.</p>
+            <p>An input string is valid if:</p>
+            <ul>
+                <li>Open brackets must be closed by the same type of brackets.</li>
+                <li>Open brackets must be closed in the correct order.</li>
+                <li>Every close bracket has a corresponding open bracket of the same type.</li>
+            </ul>
+        </div>
+        <div id="code-editor-container">
+            <textarea id="code-editor">// Write your code here</textarea>
+            <select id="language-selector">
+                <option value="javascript">C</option>
+                <option value="javascript">C++</option>
+                <option value="javascript">Java</option>
+                <option value="javascript">Python</option>
+                <option value="javascript">JavaScript</option>
+
+            </select>
+            <button onclick="runCode()">Run</button>
+            <button onclick="runAll()">Run All Tests</button>
+        </div>
+
+        <div id="examples-container">
+            <div class="example" data-input="()" , data-expected="true">
+                <p><strong>Example 1:</strong></p>
+                <p>Input: s = "()"</p>
+                <p>Output: true</p>
+            </div>
+            <div class="example" data-input="()[]{}" , data-expected="true">
+                <p><strong>Example 2:</strong></p>
+                <p>Input: s = "()[]{}"</p>
+                <p>Output: true</p>
+            </div>
+            <div class="example" data-input="(]" , data-expected="false">
+                <p><strong>Example 3:</strong></p>
+                <p>Input: s = "(]"</p>
+                <p>Output: false</p>
+            </div>
+        </div>
+    </div>
+    <script src="allproblems.js"></script>
+</body>
+
+</html>
