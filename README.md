@@ -18,5 +18,19 @@ In response to these challenges, we developed SkillSync—a one-stop solution de
 - To introduce live interviews and live collaboration, showcasing teamwork and communication skills, while ensuring an intuitive and engaging user interface.
 - To develop a robust, object-oriented codebase and a database architecture for efficient storage and retrieval of user data and assessment results, ensuring easy maintainability and platform scalability.
 
+## Features
+
+<b> User-Friendly Interface: </b> Skill Sync is designed with a user-centric approach, featuring an intuitive and easy-to-navigate interface that allows for seamless interaction and accessibility across the platform.
+
+<b> Coding Assessment Formats: </b> The platform offers a wide range of coding challenges that assess various technical skills. These challenges are tailored to evaluate different aspects of coding, from basic syntax to complex problem-solving under real-world scenarios.
+
+<b> Real-Time Feedback: </b> Users receive instant feedback on their performance, providing them with the ability to immediately understand their strengths and areas for improvement. This feature is crucial for iterative learning and rapid skill development.
+
+<b> Live Interviews and Collaboration: </b> Skill Sync includes features for live interviews and collaboration, facilitating an environment where users can demonstrate and enhance their teamwork and communication skills. This live interaction mimics real-world conditions and is valuable for both learning and assessment purposes.
+
+<b> Comprehensive Skill Development: </b> By integrating both technical and communication skill assessments, Skill Sync provides a holistic approach to skill development, catering to a wide range of needs from technical prowess to soft skills.
+
+
+
 
 
