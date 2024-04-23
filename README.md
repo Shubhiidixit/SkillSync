@@ -30,6 +30,23 @@ In response to these challenges, we developed SkillSync—a one-stop solution de
 
 <b> Comprehensive Skill Development: </b> By integrating both technical and communication skill assessments, Skill Sync provides a holistic approach to skill development, catering to a wide range of needs from technical prowess to soft skills.
 
+## Implementation
+
+<b> Users (Students): </b>
+ 
+- Registration and Login: Students register for an account and log in securely.
+
+- Access Assessments: Upon logging in, students can access a variety of assessments tailored to their interests and goals.
+
+- Take Assessments: Students can select and complete assessments within the platform, answering questions and providing responses.
+ 
+- View Results and Feedback: After completing assessments, students can view their results and receive detailed feedback to understand their performance and areas for improvement.
+
+- Mock Interviews: Students have the option to participate in mock interviews conducted within the platform, allowing them to practice their interview skills and receive feedback from interviewers.
+
+- Collaboration: The platform facilitates collaboration among users, enabling students to engage with peers, share resources, and collaborate on projects or assignments.
+ 
+
 ## Applications
 
 <b> Educational Institutions: </b> Universities, colleges, and schools can utilize the platform for conducting assessments to evaluate students' knowledge and skills across different subjects and disciplines. It can also assist in identifying areas where students may need additional support or enrichment. 
