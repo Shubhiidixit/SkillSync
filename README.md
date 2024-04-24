@@ -33,18 +33,19 @@ In response to these challenges, we developed SkillSync—a one-stop solution de
 ## Implementation
 
 <b> Users (Students): </b>
- 
-- Registration and Login: Students register for an account and log in securely.
+<br>
 
-- Access Assessments: Upon logging in, students can access a variety of assessments tailored to their interests and goals.
+<b> Registration and Login: </b> Students register for an account and log in securely.
 
-- Take Assessments: Students can select and complete assessments within the platform, answering questions and providing responses.
- 
-- View Results and Feedback: After completing assessments, students can view their results and receive detailed feedback to understand their performance and areas for improvement.
+<b> Access Assessments: </b> Upon logging in, students can access a variety of assessments tailored to their interests and goals.
 
-- Mock Interviews: Students have the option to participate in mock interviews conducted within the platform, allowing them to practice their interview skills and receive feedback from interviewers.
+<b> Take Assessments: </b> Students can select and complete assessments within the platform, answering questions and providing responses.
 
-- Collaboration: The platform facilitates collaboration among users, enabling students to engage with peers, share resources, and collaborate on projects or assignments.
+<b> View Results and Feedback: </b> After completing assessments, students can view their results and receive detailed feedback to understand their performance and areas for improvement.
+
+<b> Mock Interviews: </b> Students have the option to participate in mock interviews conducted within the platform, allowing them to practice their interview skills and receive feedback from interviewers.
+
+<b> Collaboration: </b> The platform facilitates collaboration among users, enabling students to engage with peers, share resources, and collaborate on projects or assignments.
  
 
 ## Applications
