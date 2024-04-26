@@ -54,6 +54,9 @@ In response to these challenges, we developed SkillSync—a one-stop solution de
 
 - <b> Integration with Student Profiles: </b> Interviewers may access student profiles within the platform to review their background.
 
+  ![image](https://github.com/Shubhiidixit/SkillSync/assets/96081477/9ec5d18e-7ef8-40d4-93c2-6961e1bdb4cb)
+
+
 ## Applications
 
 - <b> Educational Institutions: </b> Universities, colleges, and schools can utilize the platform for conducting assessments to evaluate students' knowledge and skills across different subjects and disciplines. It can also assist in identifying areas where students may need additional support or enrichment. 
