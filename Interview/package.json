@@ -6,10 +6,6 @@
   "scripts": {
     "start": "cd Interview && npm start",
     "dev": "nodemon server.js"
-}
-
-}
-
   },
   "keywords": [],
   "author": "",
