@@ -4,8 +4,10 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "start": "npm install && node server.js",
+    "start": "cd Interview && npm start",
     "dev": "nodemon server.js"
+}
+
 }
 
   },
