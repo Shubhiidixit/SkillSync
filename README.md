@@ -1,6 +1,6 @@
 # SkillSync: Bridging Skills, Unlocking Success!
 
-Link-https://skill-sync-project.netlify.app/
+Link- https://skill-sync-project.netlify.app/
 
 ## Introduction
 
