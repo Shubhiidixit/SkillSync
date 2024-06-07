@@ -70,6 +70,9 @@ In response to these challenges, we developed SkillSync—a one-stop solution de
 - <b> Professional Development: </b> Professionals seeking to enhance their skills or pursue career advancement opportunities can benefit from the platform by accessing a range of assessments and training resources. It can serve as a valuable tool for ongoing professional development and lifelong learning.  
 
 - <b> Government and Nonprofit Organizations: </b> Government agencies and nonprofit organizations can leverage the platform for various purposes, such as conducting assessments for educational or vocational programs, evaluating the effectiveness of training initiatives, or assessing the skills of program beneficiaries for workforce development purposes.
+
+**NOTE**: This is an ongoing project. It is not yet completed.
+
    
 
 
