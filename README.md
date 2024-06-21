@@ -6,6 +6,7 @@ Link- https://skill-sync-project.netlify.app/
 - [Introduction](#introduction)
 - [Problem Statement](#problem-statement)
 - [Objective](#objective)
+- ]Features](#features)
 
 ## Introduction
 
