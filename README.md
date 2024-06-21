@@ -5,6 +5,7 @@ Link- https://skill-sync-project.netlify.app/
 ## Table of Contents
 - [Introduction](#introduction)
 - [Problem Statement](#problem-statement)
+- [Objective](#objective)
 
 ## Introduction
 
