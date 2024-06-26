@@ -8,7 +8,7 @@ Link- https://skill-sync-project.netlify.app/
 - [Objective](#objective)
 - [Features](#features)
 - [Implementation](#implementation)
-- [Application](application)
+- [Applications](applications)
 
 ## Introduction
 
