@@ -11,7 +11,6 @@ Link- https://skill-sync-project.netlify.app/
 - [Applications](#applications)
 
 ## Introduction
-
 SkillSync is an innovative platform that addresses the growing demand for continuous skill development by offering a comprehensive platform that revolutionizes skill assessment and enhancement. Our platform provides real-time feedback, assessments, and live interaction features, creating a dynamic and interactive learning environment for skill development.
 
 ## Problem Statement
