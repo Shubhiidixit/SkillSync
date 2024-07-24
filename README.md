@@ -23,7 +23,7 @@ In response to these challenges, we developed SkillSync—a one-stop solution de
 
 - To design a skill assessment platform with adaptive features, offering coding challenges and immediate feedback for continuous skill development.
 
-<b> Sub-Objectives:- </b>
+<b> Sub-Objectives </b>
 - To introduce live interviews and live collaboration, showcasing teamwork and communication skills, while ensuring an intuitive and engaging user interface.
 - To develop a robust, object-oriented codebase and a database architecture for efficient storage and retrieval of user data and assessment results, ensuring easy maintainability and platform scalability.
 
