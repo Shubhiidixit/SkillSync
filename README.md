@@ -1,3 +1,4 @@
+# Minor Project-2
 # SkillSync: Bridging Skills, Unlocking Success!
 
 Link- https://skill-sync-project.netlify.app/
