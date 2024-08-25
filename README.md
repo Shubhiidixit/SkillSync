@@ -71,20 +71,19 @@ Follow the instructions below to set up and use the platform:
 
 <b> 1. Getting Started </b>
 
-- <b> Clone the Repository </b>
+- <b> Clone the Repository- </b>
 ` git clone https://github.com/YourUsername/SkillSync.git` and 
 ` cd SkillSync`
 
-- <b> Set Up the Project </b>
-The project has multiple components. Below are the instructions to set up each component.
+- <b> Set Up the Project- </b> The project has multiple components. Below are the instructions to set up each component.
 
-<b> 2. Dashboard (HTML/CSS) </b>
+<b> 2. Dashboard (HTML/CSS)- </b>
 The dashboard is built using basic HTML and CSS. You can view the dashboard by opening the index.html file directly in your browser.
 
-<b> 3. Coding Assessments </b>
+<b> 3. Coding Assessments- </b>
 For the coding assessments feature, there’s no additional setup required. You can access this feature by navigating to the "Coding" option in the navigation bar on the dashboard.
 
-<b> 4. Interview (Node.js) </b>
+<b> 4. Interview (Node.js)- </b>
 The interviews feature is built using Node.js. Follow these steps to set up and start the server:
 
 - <b> Install Dependencies- </b> Navigate to the interviews directory and install the required Node.js packages.
@@ -97,8 +96,8 @@ This will start the development server and you can access the interviews feature
 
 - <b> Access Interview- </b> Once the server is running, click on the "Interview" option in the navigation bar on the dashboard to access the interview page.
 
-<b> 5. Additional Features </b>
-For additional features- code sync functionality, visit the [Code-Sync](https://github.com/Shubhiidixit/Code-Sync) Repository.
+<b> 5. Additional Features- </b>
+For additional features: code sync functionality, visit the [Code-Sync](https://github.com/Shubhiidixit/Code-Sync) Repository.
 
 ## Applications
 
