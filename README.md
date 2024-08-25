@@ -93,7 +93,6 @@ The interviews feature is built using Node.js. Follow these steps to set up and 
 
 - <b> Start the Development Server- </b>  Start the server using the following command:
 `npm start`
-<br>
 This will start the development server and you can access the interviews feature at http://localhost:3000 (or the port specified by your configuration).
 
 - <b> Access Interview- </b> Once the server is running, click on the "Interview" option in the navigation bar on the dashboard to access the interview page.
