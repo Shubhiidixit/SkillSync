@@ -72,7 +72,7 @@ Follow the instructions below to set up and use the platform:
 <b> 1. Getting Started </b>
 
 - <b> Clone the Repository- </b>
-` git clone https://github.com/YourUsername/SkillSync.git` and 
+ `git clone https://github.com/Shubhiidixit/SkillSync.git` and 
 ` cd SkillSync`
 
 - <b> Set Up the Project- </b> The project has multiple components. Below are the instructions to set up each component.
