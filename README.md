@@ -116,6 +116,21 @@ For additional features: code sync functionality, visit the [Code-Sync](https://
 - <b> Government and Nonprofit Organizations: </b> Government agencies and nonprofit organizations can leverage the platform for various purposes, such as conducting assessments for educational or vocational programs, evaluating the effectiveness of training initiatives, or assessing the skills of program beneficiaries for workforce development purposes.
 
 ## Contributing
+We welcome contributions to improve SkillSync! If you'd like to contribute, please follow these guidelines:
+
+- <b> Fork the Repository: </b> Click on the "Fork" button at the top right of the repository page to create your own copy of the project.
+- <b> Create a Branch: </b> Create a new branch for your feature or bug fix:
+- <b> Make Your Changes: </b> Implement your changes, ensuring to follow the project's coding standards and conventions.
+- <b> Commit Your Changes: </b> Commit your changes with a descriptive message
+- <b> Push to Your Fork: </b> Push your changes to your forked repository
+- <b> Open a Pull Request: </b> Go to the original repository and open a pull request to merge your changes.
+
+
+If you have any questions or need assistance, feel free to open an issue.
+<br>
+Thank you for your interest in contributing to SkillSync!
+
+<hr>
 
 **NOTE**: This is an ongoing project. It is not yet completed.
 
