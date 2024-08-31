@@ -119,7 +119,7 @@ For additional features: code sync functionality, visit the [Code-Sync](https://
 We welcome contributions to improve SkillSync! If you'd like to contribute, please follow these guidelines:
 
 - <b> Fork the Repository: </b> Click on the "Fork" button at the top right of the repository page to create your own copy of the project.
-- <b> Create a Branch: </b> Create a new branch for your feature or bug fix:
+- <b> Create a Branch: </b> Create a new branch for your feature or bug fix
 - <b> Make Your Changes: </b> Implement your changes, ensuring to follow the project's coding standards and conventions.
 - <b> Commit Your Changes: </b> Commit your changes with a descriptive message
 - <b> Push to Your Fork: </b> Push your changes to your forked repository
